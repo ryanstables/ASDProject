@@ -12,8 +12,9 @@ using namespace std;
 int main()
 {
     //    insert code here...
- 
-    cout << "Hello, \n\t\"Ryan\"!\n" << "\t\tHello, \n\t\t\t" << "Nick!\n";
-
+    
+    cout << "Hello, my name is ryan" << endl;
+    
+    
     return 0;
 }
